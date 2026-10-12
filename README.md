@@ -29,4 +29,4 @@ Note: Sales, profit and margin KPIs respond to slicers; order count and average 
 Review discounting on Furniture, since high sales are not turning into strong profit.
 
 ## Screenshot
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Superstore_Dashboard.png)
